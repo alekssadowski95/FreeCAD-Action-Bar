@@ -8,3 +8,5 @@ This solution brings 3 unique advantages:
 1. Users get intuitively accustomed to keyboard shortcuts, which lets them work faster.
 2. Users can create their own workflows by arranging a collection of commands they usually use. This can be extended to allow users to group functions form different workbenches. The workflows can be then also shared in the form of configurations.
 3. Individual functions can be subsequently added by the system to the users action bar, enabling a way of gamifying the new user experience in FreeCAD. The user unlocks new functions after completing different tutorials. This gives the new user a sense of progression. Experienced users can turn the progression system off or dont even opt-in in the first place.
+
+![freecad-gui-experience-bar.png](freecad-gui-experience-bar.png)
