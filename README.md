@@ -12,7 +12,7 @@ This solution brings 3 unique advantages:
 ![freecad-gui-experience-bar.png](freecad-gui-experience-bar.png)
 
 
-## Implementation plan
+## Implementation steps
 1. Display a grid of pyside2 components that can contain a button and detect a mouseover, lmb-up, lmb-down event.
 2. Create a non modal dialog, containing all commands from the Part Design workbench. The pyside2 components for the commands detect a mouseover, lmb-down event.
 3. Create a copy of the command icon with its container when command is picked up. The copy follows the mousecursor until dropped in the action bar or somewhere else.
